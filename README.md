@@ -1,6 +1,6 @@
 <div align="center">
 
-Hi, I'm Vinh Nguyen 👋
+Hi, I'm Lương Vinh 👋
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1100&color=38BDF8&center=true&vCenter=true&width=700&height=45&lines=Full-stack+Web+Developer;Next.js+%7C+React+%7C+TypeScript;Building+Web+Apps+%26+Automation+Tools" alt="Animated developer introduction" />
 
 <p>
